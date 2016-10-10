@@ -1,4 +1,4 @@
-# Scaling Up MAP-Elites Using Centroidal Voronoi Tesselations
+# Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations
 
 #### meta-repo for code for the CVT-MAP-Elites experiments
 
