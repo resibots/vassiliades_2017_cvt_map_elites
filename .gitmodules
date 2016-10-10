@@ -1,0 +1,18 @@
+[submodule "sferes2"]
+	path = sferes2
+	url = https://github.com/sferes2/sferes2.git
+[submodule "dart"]
+	path = dart
+	url = https://github.com/dartsim/dart.git
+[submodule "hexapod_common"]
+	path = hexapod_common
+	url = https://github.com/resibots/hexapod_common.git
+[submodule "hexapod_simu"]
+	path = hexapod_simu
+	url = https://github.com/resibots/hexapod_simu.git
+[submodule "algorithms/map_elites"]
+	path = algorithms/map_elites
+	url = https://github.com/sferes2/map_elites.git
+[submodule "algorithms/cvt_map_elites"]
+	path = algorithms/cvt_map_elites
+	url = git@github.com:sferes2/cvt_map_elites.git
